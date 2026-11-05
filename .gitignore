@@ -1,0 +1,7 @@
+winter-playlist/
+*.mp4
+*.mp3
+*.wav
+check/
+__pycache__/
+.DS_Store
